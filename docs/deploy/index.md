@@ -34,7 +34,7 @@
 The following **Mandatory Command** is required for all deployments.
 
 ```console
-kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/nginx-0.30.0/deploy/static/mandatory.yaml
+kubectl apply -f https://raw.githubusercontent.com/jisulove/ingress-nginx/nginx-0.30.0/deploy/static/mandatory.yaml
 ```
 
 !!! tip
